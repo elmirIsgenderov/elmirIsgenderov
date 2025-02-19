@@ -1,4 +1,4 @@
- [![MasterHead](https://youteam.io/blog/wp-content/uploads/2022/08/Kotlindev-1920x500.png)
+ ![MasterHead](https://youteam.io/blog/wp-content/uploads/2022/08/Kotlindev-1920x500.png)
 
 <h1 align="center">Hi 👋, I'm Elmir Isgenderov</h1>
 <h3 align="center">A passionate Android Developer from Azerbaijan</h3>
