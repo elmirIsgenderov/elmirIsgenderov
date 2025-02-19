@@ -1,6 +1,6 @@
  ![MasterHead](https://youteam.io/blog/wp-content/uploads/2022/08/Kotlindev-1920x500.png)
 
-<h1 align="center">Hi 👋, I'm Elmir Isgandarov</h1>
+<h1 align="center">Hi 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **be a good android developer**
