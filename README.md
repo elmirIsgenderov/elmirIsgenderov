@@ -1,4 +1,4 @@
- ![MasterHead]()
+ ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFeC6RZyLbLtA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685143975680?e=1747267200&v=beta&t=FYoLVXoMcX0P415pJ6paRd1_DVPYcMvKaRPbZPL1ZgI)
 
 <h1 align="center">Hi 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer</h3>
