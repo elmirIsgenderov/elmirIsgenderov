@@ -1,4 +1,4 @@
- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMgGj6_NN5qCqs9JUZiLcYJ04RUa4qptSsw&s)
+ ![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer</h3>
