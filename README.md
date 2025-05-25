@@ -1,4 +1,4 @@
- ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFeC6RZyLbLtA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1685143975680?e=1747267200&v=beta&t=FYoLVXoMcX0P415pJ6paRd1_DVPYcMvKaRPbZPL1ZgI)
+ ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQeI-Ng_f6_CGYh-v9eO-sy0P3PTXLcfl6GLOqSZoH9GJ6XWx0h0-9f23NYL8f2gV-TRGQzOtjKH5Jj8IUa70Gc_lgZWi_158AcAkYd98kBWGoW7necXpKtHQK8821bIgjY1m8hlso0kMTr3gw10liioR0c0YUY0tI9boFGOcvCKKZsJEm1C63UPKNEfE/s1600/Op2_AndroidKoitlin_Multiplatform_SharedModule_Hero_Blog.png)
 
 <h1 align="center">Hi 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer</h3>
