@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **isgenderovvelmirr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3
 <p align="left">
 <a href="https://linkedin.com/in/elmir isgenderov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmir isgenderov" height="30" width="40" /></a>
 <a href="https://instagram.com/isgenderov_.o2o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isgenderov_.o2o" height="30" width="40" /></a>
