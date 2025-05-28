@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Android-Kotlin**
 
-- 📫 How to reach me **elmirisgndrov041@gmail.com**
+- 📫 How to reach me **isgenderovvelmirr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
