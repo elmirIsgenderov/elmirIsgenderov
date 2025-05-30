@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
-- 🔭 I’m currently working on **be a good android developer**
+- 🔭 I’m currently working on **be a good android developer*
 
 - 🌱 I’m currently learning **Kotlin and Android**
 
