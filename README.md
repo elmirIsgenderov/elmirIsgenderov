@@ -1,6 +1,6 @@
  ![MasterHead](https://miro.medium.com/v2/da:true/resize:fit:1200/0*dF3Ek-ltwlpauuYE)
 
-<h1 align="center">Hi 👋, I'm Elmir</h1>
+<h1 align="center">Hi There 👋, I'm Elmir</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
 - 🔭 I’m currently working on **be a good android developer**
